@@ -4,7 +4,7 @@ Este proyecto tiene como objetivo aplicar distintos enfoques de regresión no li
 
 * Calificación: nota obtenida en la actividad, en una escala de 0 a 110.
 
-La hipótesis inicial plantea que entregar más cerca de la fecha límite impacta de forma negativa en la calificación. Para comprobarlo, se desarrolló un flujo de trabajo en varias etapas, utilizando técnicas polinómicas, segmentadas y de K-vecinos más cercanos (KNN).
+La hipótesis inicial plantea que entregar más cerca de la fecha límite impacta de forma negativa en la calificación. Para comprobarlo, se desarrollaron modelos, utilizando técnicas polinómicas, segmentadas y de K-vecinos más cercanos (KNN).
 
 Este proyecto incluye los siguientes documentos:
 * [Reporte en formato ipynb](A1.6_645700(2).ipynb)
